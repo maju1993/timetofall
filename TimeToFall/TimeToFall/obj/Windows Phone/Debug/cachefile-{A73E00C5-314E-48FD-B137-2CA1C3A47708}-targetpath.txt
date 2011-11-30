@@ -1,0 +1,3 @@
+Content\pilka1.xnb
+Content\bg.xnb
+Content\teksturaprzeszkody.xnb
